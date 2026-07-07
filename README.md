@@ -1,8 +1,3 @@
-# 🌾 OptiCrop – Smart Agricultural Production Optimization Engine
-
-OptiCrop is an intelligent, machine learning-powered agricultural decision engine designed to help agronomists, farmers, and agribusinesses optimize crop production. By analyzing soil chemical metrics (NPK) and climate telemetry (temperature, moisture, pH, rainfall), OptiCrop predicts the most suitable crops, estimates yields, categorizes soil clusters, and suggests specific soil replenishment treatments.
-
----
 
 ## 🏛️ System Architecture Topology
 
